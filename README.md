@@ -3,9 +3,9 @@
 > **A fully automated, data-centric soil monitoring system designed for real-world agriculture, research, and ML-ready datasets.**  
 Engineered with robustness, visual feedback, and long-term data intelligence in mind.
 
-![overview](visuals\01_overview.png)
+![overview](visuals/01_overview.png)
 
-![overview](visuals\02_building_smart_system.png)
+![overview](visuals/02_building_smart_system.png)
 
 ---
 
@@ -22,7 +22,7 @@ It continuously:
 
 The result is a **self-healing, ML/DL-ready data pipeline** with strong human-readable feedback.
 
-![overview](visuals\03_smart_npk_sensor_system.png)
+![smart_system](visuals/03_smart_npk_sensor_system.png)
 ---
 
 ##  Key Features
@@ -58,7 +58,7 @@ Displays:
 
 This makes the device **field-debuggable without a laptop**.
 
-![Dashboard](images\07_data_uploaded.png)
+![Dashboard](images/07_data_uploaded.png)
 ---
 
 ###  Intelligent Power Management (Deep Sleep)
@@ -71,7 +71,7 @@ This makes the device **field-debuggable without a laptop**.
   -  Operation only during meaningful sampling periods
   -  Zero energy waste during inactive hours
 
-  ![Deepsleep Ui](images\08_sleep.png)
+  ![Deepsleep Ui](images/08_sleep.png)
 
 **Wake-up logic:**
 - Wakes automatically at next valid working window
@@ -94,7 +94,7 @@ This makes the system ideal for **battery-powered & long-term outdoor deployment
 No data loss, no silent failures.
 
 
- ![Wifi Ui](visuals\04_wifi.png)
+ ![Wifi Ui](visuals/04_wifi.png)
 
 ---
 
@@ -128,13 +128,13 @@ Perfect for:
 ##### Sample Dataset (Pipeline Test)
 Automatically logged, structured data stored in Google Sheets for downstream ML/DL workflows. ( Caution : Not original sensor data / random values )  
 
- ![Sample csvsheet](visuals\05_sample_csvsheet.png)
+ ![Sample csvsheet](visuals/05_sample_csvsheet.png)
 
 
 ##### Live Field Dataset (Production Logging)
 Real-time soil sensor data continuously logged and synchronized to Google Sheets during scheduled working hours.
 
- ![Live Field csvsheet](visuals\06_field_csvsheet.png)
+ ![Live Field csvsheet](visuals/06_field_csvsheet.png)
 
 ---
 
@@ -222,7 +222,7 @@ Shown:
 - Cloud ML integration
 - Multi-node deployment
 
- ![Applications](visuals\07_applications.png)
+ ![Applications](visuals/07_applications.png)
 
 
 ---
